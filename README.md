@@ -1,1 +1,1 @@
-# SQL-assignment-1.
+Select all columns from the employees table.
